@@ -20,7 +20,6 @@
 ## Prerequisite
 - Git
 - Node JS (v22)
-- Base Sepolia ETH balance
 
 ## Join My Telegram Channel
 ```
