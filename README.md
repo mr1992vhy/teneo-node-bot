@@ -184,6 +184,7 @@ Max Points per Day
 
 Teneo Using Web Socket, so make sure you only run 1 accounts session, example if you run bot using account A, dont run account A on your browser extension.
 
+**USE PROXY IF YOU RUN MULTIPLE ACCOUNTS**
 
 ## CONTRIBUTE
 
