@@ -15,18 +15,11 @@ For more bots and tutorials you can join our Telegram channel
 also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
 
 
-## BOT FEATURE
-- Multi Account 
-- Proxy Support (HTTP / SOCKS5)
-- Auto Run Teneo Node
+## TENEO EXTENSION NODE 
+
+### in order to use this bot you should register to Teneo with my REF code which is ```0CH20```
 
 
-## TENEO EXTENSION NODE AIRDROP
-
-Airdrop
-New Airdrops: Teneo Node Extension
-
-Hope im not late enough 😂
 ➡️ Download Extension : https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm
 - Install Extension
 - Login / Create Account
