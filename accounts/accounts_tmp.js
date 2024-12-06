@@ -14,4 +14,10 @@
  *
  */
 
-export const accountLists = [];
+export const accountLists = [
+  
+         {
+             email: "YOUR EMAIL",
+             password: "YOUR PASSWORD",
+         }, 
+];
