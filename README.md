@@ -35,7 +35,7 @@ also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
 ➡️ Download Extension : https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm
 - Install Extension
 - Login / Create Account
-- Enter Ref Code : ```0CH20```  (USE REF GOT 2500 Points)
+- Enter Ref Code : ```ngGtG```  (USE REF GOT 2500 Points)
 - Verify Email
 - Run Nodes Extension
 
