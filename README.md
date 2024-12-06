@@ -12,6 +12,11 @@
   ```
   sudo apt install npm
   ```
+  
+- screen
+  ```
+  sudo apt install screen
+  ```
 
 ## Join My Telegram Channel
 
@@ -59,9 +64,16 @@ also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
    nano config/proxy_list.js
    ```
 6. Run Bot
+
+   ```
+   screen -S teneo
+   ```
+   
    ```
    npm run start
    ```
+
+   Ctl + A + D
    
 ### Windows
 1. Open your `Command Prompt` or `Power Shell`.
