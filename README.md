@@ -55,15 +55,12 @@ also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
    ```
    nano accounts/accounts.js
    ```
-4. Configure the bot config
-   ```
-   nano config/config.js
-   ```
-5. Configure the proxy
+
+4. Configure the proxy ( optional )
    ```
    nano config/proxy_list.js
    ```
-6. Run Bot
+5. Run Bot
 
    ```
    screen -S teneo
@@ -121,6 +118,8 @@ Max Points per Day
 **Each hour consists of 4 heartbeats that evaluate if your Node is connected and successfully running. Please note that the points model can change at any time.
 
 Teneo Using Web Socket, so make sure you only run 1 accounts session, example if you run bot using account A, dont run account A on your browser extension.
+
+[source](https://github.com/Widiskel/teneo-node-bot)
 
 **USE PROXY IF YOU RUN MULTIPLE ACCOUNTS**
 
