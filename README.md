@@ -2,21 +2,6 @@
 ![TRWA](assets/img1.jpg)
 
 
-## Table Of Contents
-- [TENEO EXTENSION NODE BOT](#teneo-extension-node-bot)
-  - [Table Of Contents](#table-of-contents)
-  - [Prerequisite](#prerequisite)
-  - [Join My Telegram Channel](#join-my-telegram-channel)
-  - [BOT FEATURE](#bot-feature)
-  - [TENEO EXTENSION NODE AIRDROP](#teneo-extension-node-airdrop)
-  - [Setup \& Configure BOT](#setup--configure-bot)
-    - [Linux](#linux)
-    - [Windows](#windows)
-  - [Update Bot](#update-bot)
-  - [IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)](#important-note-read-it-this-is-not-decoration)
-  - [CONTRIBUTE](#contribute)
-  - [SUPPORT](#support)
-
 ## Prerequisite
 - Git
 - Node JS (v22)
@@ -25,7 +10,9 @@
 
 For more bots and tutorials you can join our Telegram channel
 
-[**UbuntuForNodes**](https://t.me/ubuntufornodes).
+[**UbuntuForNodes**](https://t.me/ubuntufornodes)
+
+also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
 
 
 ## BOT FEATURE
@@ -35,7 +22,6 @@ For more bots and tutorials you can join our Telegram channel
 
 
 ## TENEO EXTENSION NODE AIRDROP
-#NEW 
 
 Airdrop
 New Airdrops: Teneo Node Extension
@@ -102,7 +88,7 @@ Hope im not late enough 😂
 
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
 
-DWYOR
+DYOR
 
 How can I get Teneo Points?
 Reward distribution varies based on your contribution. You can collect Teneo Points through connecting your Node or inviting new people to our network. The points are distributed as the following:
@@ -126,8 +112,3 @@ Teneo Using Web Socket, so make sure you only run 1 accounts session, example if
 
 **USE PROXY IF YOU RUN MULTIPLE ACCOUNTS**
 
-## CONTRIBUTE
-
-Feel free to fork and contribute adding more feature thanks.
-
-## SUPPORT
