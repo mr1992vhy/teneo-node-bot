@@ -56,7 +56,7 @@ also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
    nano accounts/accounts.js
    ```
 
-4. Configure the proxy ( optional )
+4. Configure the proxy ( optional )  **USE PROXY IF YOU RUN MULTIPLE ACCOUNTS**
    ```
    nano config/proxy_list.js
    ```
@@ -119,7 +119,5 @@ Max Points per Day
 
 Teneo Using Web Socket, so make sure you only run 1 accounts session, example if you run bot using account A, dont run account A on your browser extension.
 
+
 [source](https://github.com/Widiskel/teneo-node-bot)
-
-**USE PROXY IF YOU RUN MULTIPLE ACCOUNTS**
-
