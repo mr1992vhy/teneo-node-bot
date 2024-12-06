@@ -45,7 +45,7 @@ also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/TheShaho/teneo-node-bot.git && cd teneo-node-bot
+   git clone https://github.com/mr1992vhy/teneo-node-bot.git && cd teneo-node-bot
    ```
 2. Run
    ```
