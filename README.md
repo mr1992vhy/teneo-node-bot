@@ -4,7 +4,14 @@
 
 ## Prerequisite
 - Git
+  ```
+  sudo apt install git
+  ```
+  
 - Node JS (v22)
+  ```
+  sudo apt install npm
+  ```
 
 ## Join My Telegram Channel
 
