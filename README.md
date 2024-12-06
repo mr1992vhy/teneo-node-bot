@@ -18,18 +18,9 @@
   sudo apt install screen
   ```
 
-## Join My Telegram Channel
-
-For more bots and tutorials you can join our Telegram channel
-
-[**UbuntuForNodes**](https://t.me/ubuntufornodes)
-
-also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
-
-
 ## TENEO EXTENSION NODE 
 
-### in order to use this bot you should register to Teneo with my REF code which is ```0CH20```
+### in order to use this bot you should register to Teneo with my REF code which is ```ngGtG```
 
 
 ➡️ Download Extension : https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm
@@ -76,7 +67,7 @@ also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/TheShaho/teneo-node-bot.git && cd teneo-node-bot
+   git clone https://github.com/mr1992vhy/teneo-node-bot.git && cd teneo-node-bot
    ```
 3. Run 
    ```
@@ -118,6 +109,3 @@ Max Points per Day
 **Each hour consists of 4 heartbeats that evaluate if your Node is connected and successfully running. Please note that the points model can change at any time.
 
 Teneo Using Web Socket, so make sure you only run 1 accounts session, example if you run bot using account A, dont run account A on your browser extension.
-
-
-[source](https://github.com/Widiskel/teneo-node-bot)
