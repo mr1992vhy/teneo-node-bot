@@ -16,13 +16,13 @@
     "teneo-node-extension-bot",
     "teneo-node",
     "teneo-extension",
-    "widiskel"
+    "TheShaho"
   ],
-  "author": "Widiskel",
+  "author": "TheShaho",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Widiskel/teneo-node-extension-bot.git.git"
+    "url": "git+https://github.com/TheShaho/teneo-node-extension-bot.git.git"
   },
   "dependencies": {
     "blessed": "^0.1.81",
