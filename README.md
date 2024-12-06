@@ -22,48 +22,10 @@
 - Node JS (v22)
 
 ## Join My Telegram Channel
-```
-                                                          
-                      ...                                 
-                     .;:.                                 
-                    .;ol,.                                
-                   .;ooc:'                                
-            ..    .;ooccc:'.    ..                        
-          .',....'cdxlccccc;.....,'.                      
-         .;;..'';clolccccccc:,''..;;.                     
-        ':c'..':cccccccccccccc;...'c:.                    
-       ':cc,.'ccccccccccccccccc:..;cc:'                   
-    ...:cc;.':cccccccccccccccccc:..:cc:...                
-   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
-  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
-  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
-  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
- .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
- .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
- .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
-  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
-    ;KX:         ;o::l:;cc;o:.        ;KK;                
-     :KK:.       ,d,cd,'ol'o:       .:0K:                 
-      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
-       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
-         .','.. .lX0doooodOXd.  .','.                     
-                 .,okkddxkd;.                             
-                    'oxxd;.                               
-   ........................................                              
-   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
-   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
-   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
-   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
-   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
-   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................
 
-```           
-                                              
-                                              
+For more bots and tutorials you can join our Telegram channel
 
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
+[**UbuntuForNodes**](https://t.me/ubuntufornodes).
 
 
 ## BOT FEATURE
@@ -76,16 +38,15 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 #NEW 
 
 Airdrop
-New Airdrops: Teneo Node Ektension 
+New Airdrops: Teneo Node Extension
 
 Hope im not late enough 😂
 ➡️ Download Extension : https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm
 - Install Extension
 - Login / Create Account
-- Enter Ref Code : ```wi3fG```  (USE REF GOT 2500 Points)
+- Enter Ref Code : ```0CH20```  (USE REF GOT 2500 Points)
 - Verify Email
-- Run Nodes Ektension 
-- LFG
+- Run Nodes Extension
 
 
 ## Setup & Configure BOT
@@ -93,7 +54,7 @@ Hope im not late enough 😂
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/Widiskel/teneo-node-bot.git && cd teneo-node-bot
+   git clone https://github.com/TheShaho/teneo-node-bot.git && cd teneo-node-bot
    ```
 2. Run
    ```
@@ -120,7 +81,7 @@ Hope im not late enough 😂
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/teneo-node-bot.git && cd teneo-node-bot
+   git clone https://github.com/TheShaho/teneo-node-bot.git && cd teneo-node-bot
    ```
 3. Run 
    ```
@@ -137,27 +98,6 @@ Hope im not late enough 😂
     ```
     npm run start
     ```
-
-## Update Bot
-
-To update bot follow this step :
-1. run
-   ```
-   git pull
-   ```
-   or
-   ```
-   git pull --rebase
-   ```
-   if error run
-   ```
-   git stash && git pull
-   ```
-2. run
-   ```
-   npm update
-   ```
-2. start the bot
 
 
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
@@ -191,10 +131,3 @@ Teneo Using Web Socket, so make sure you only run 1 accounts session, example if
 Feel free to fork and contribute adding more feature thanks.
 
 ## SUPPORT
-
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
-
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
-
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
